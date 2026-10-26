@@ -3,9 +3,9 @@ Lớp **70CSQT** kiểm tra bù bài số 2/2.
 
 Thời gian: tiết 13 (18h15-19h) thứ 6 ngày 30/10/2026
 
-Địa điểm: _đang cập _
+Địa điểm: _đang cập nhật_
 
-
+**Lưu ý**: sinh viên không kiểm tra được vào thứ 6 sẽ làm bài bù vào 8h30-9h15, Chủ nhật ngày 01/11/2026 tại Bộ môn Toán ứng dụng, P409, nhà A1.
 
 Đề cương ôn tập:
 
