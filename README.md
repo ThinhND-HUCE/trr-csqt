@@ -1,3 +1,9 @@
+# Thông báo
+Lớp **70CSQT** kiểm tra bù bài số 2/2.
+
+
+
+
 <!--
 **Exam Outline:**
 
