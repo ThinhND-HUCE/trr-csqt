@@ -1,6 +1,8 @@
 # Thông báo
 Lớp **70CSQT** kiểm tra bù bài số 2/2.
+
 Thời gian: tiết 13 (18h15-19h) thứ 6 ngày 30/10/2026
+
 Địa điểm: _đang cập _
 
 
