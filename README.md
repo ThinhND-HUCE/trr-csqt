@@ -1,7 +1,13 @@
 # Thông báo
 Lớp **70CSQT** kiểm tra bù bài số 2/2.
+Đề cương ôn tập:
+**Câu 1:** Chọn 1 trong 2 nội dung sau:
+1. Phát biểu thuật toán Euclid. Cho ví dụ minh họa. Phân tích độ phức tạp của thuật toán.
+2. Mô tả thuật toán bình phương liên tiếp để tính $a^n$. Cho ví dụ minh họa. Phân tích độ phức tạp của thuật toán.
 
-
+**Câu 2:** Chọn 1 trong 2 nội dung sau:
+1. Phát biểu, chứng minh công thức đếm số toàn ánh từ tập cỡ $m$ vào tập cỡ $n$.
+2. Phát biểu, chứng minh công thức Euler phi.
 
 
 <!--
