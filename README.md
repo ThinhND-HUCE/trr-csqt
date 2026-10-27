@@ -7,7 +7,7 @@ Thời gian: tiết 13 (18h15-19h) thứ 6 ngày 30/10/2026
 
 **Lưu ý:** sinh viên không kiểm tra được vào thứ 6 sẽ làm bài bù vào 8h30-9h15, Chủ nhật ngày 01/11/2026 tại Bộ môn Toán ứng dụng, P409, nhà A1.
 
-Đề cương ôn tập (xem file `Hướng dẫn ôn tập.pdf`):
+Đề cương ôn tập (xem file `Hướng dẫn n tập.pdf`):
 
 **Câu 1:** Chọn 1 trong 2 nội dung sau:
 1. Phát biểu thuật toán Euclid. Cho ví dụ minh họa. Phân tích độ phức tạp của thuật toán.
