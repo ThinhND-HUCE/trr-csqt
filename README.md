@@ -8,7 +8,7 @@ Thời gian: 19h30-20h15 thứ 6 ngày 30/10/2026 (lịch lùi xuống do giản
 **Lưu ý**
   + Sinh viên không kiểm tra được vào thứ 6 sẽ làm bài bù vào 8h30-9h15, Chủ nhật ngày 01/11/2026 tại Bộ môn Toán ứng dụng, P409, nhà A1.
   + Sinh viên tự dịch sang tiếng Anh.
-  + Sinh viên tự chuẩn bị giấy kiểm tra
+  + Sinh viên tự chuẩn bị giấy kiểm tra.
 
 Đề cương ôn tập (xem file `Hướng dẫn Ôn tập.pdf`):
 
