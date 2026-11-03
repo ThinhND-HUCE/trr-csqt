@@ -9,7 +9,7 @@ Thời gian: _đang cập nhật sau khi tổng hợp lịch bận của sinh vi
 
 **Lưu ý**
   + Sinh viên nhận mail kèm link file Google Sheet, điền tên mình vào các ca học mà mình bận. https://docs.google.com/spreadsheets/d/1JTzUfrtw-g2It-nUkK-fY64igqq-OdnFXPhF5K6kyXU/edit?usp=sharing
-  + Sinh viên tự dịch sang tiếng Anh.
+  + Sinh viên tự dịch đề cương sang tiếng Anh.
   + Sinh viên tự chuẩn bị giấy kiểm tra.
 
 Đề cương ôn tập (xem file `Hướng dẫn Ôn tập.pdf`):
