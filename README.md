@@ -5,7 +5,7 @@ Thời gian: _đang cập nhật sau khi tổng hợp lịch bận của sinh vi
 
 Địa điểm: Bộ môn Toán ứng dụng, P409, nhà A1.
 
-Đối tượng: dành cho sinh viên không đến làm bài được vào Thứ 6 và Chủ nhật tuần trước.
+Đối tượng: dành cho sinh viên không đến làm bài được vào Thứ 6 và Chủ nhật tuần trước (30/10, 01/11/2026).
 
 **Lưu ý**
   + Sinh viên nhận mail kèm link file Google Sheet, điền tên mình vào các ca học mà mình bận. https://docs.google.com/spreadsheets/d/1JTzUfrtw-g2It-nUkK-fY64igqq-OdnFXPhF5K6kyXU/edit?usp=sharing
