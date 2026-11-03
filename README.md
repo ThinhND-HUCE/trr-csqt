@@ -1,12 +1,14 @@
 # Thông báo
-Lớp **70CSQT** kiểm tra bù bài số 2/2.
+Lớp **70CSQT** kiểm tra bù bài số 2/2
 
-Thời gian: 19h30-20h15 thứ 6 ngày 30/10/2026 (lịch lùi xuống do giảng viên trùng lịch coi thi tại Phòng máy 5)
+Thời gian: _đang cập nhật sau khi tổng hợp lịch bận của sinh viên._
 
-Địa điểm: 108H1
+Địa điểm: Bộ môn Toán ứng dụng, P409, nhà A1.
+
+Đối tượng: dành cho sinh viên không đến làm bài được vào Thứ 6 và Chủ nhật tuần trước.
 
 **Lưu ý**
-  + Sinh viên không kiểm tra được vào thứ 6 sẽ làm bài bù vào 8h30-9h15, Chủ nhật ngày 01/11/2026 tại Bộ môn Toán ứng dụng, P409, nhà A1.
+  + Sinh viên nhận mail kèm link file Google Sheet, điền tên mình vào các ca học mà mình bận. https://docs.google.com/spreadsheets/d/1JTzUfrtw-g2It-nUkK-fY64igqq-OdnFXPhF5K6kyXU/edit?usp=sharing
   + Sinh viên tự dịch sang tiếng Anh.
   + Sinh viên tự chuẩn bị giấy kiểm tra.
 
